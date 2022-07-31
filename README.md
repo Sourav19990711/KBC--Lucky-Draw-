@@ -8,7 +8,7 @@ It is a core java game,based on Indian television show having best animation as 
 
 
 
-This project is created by Rox Studio developer Just for Fun.
+
 
 
 # Features
@@ -62,6 +62,9 @@ Software required :-Java Runtime Environment (JRE).
 
 Library           :-mysql-connector-java-5.1.23-bin.jar
 
-# Thank you
+
+
+Thanks,
+Sourav
 
 
