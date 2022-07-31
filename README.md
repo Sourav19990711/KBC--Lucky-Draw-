@@ -28,7 +28,7 @@ First Install netbeans and mysql (ENTER MYSQL PASSWORD:-12345) on  your computer
 
 # Architecture Diagram
 
-<img src="https://github.com/Sourav19990711/KBC--Lucky-Draw-/blob/main/architecture_diagram_kbc.png"  height="300" />
+<img src="https://github.com/Sourav19990711/KBC--Lucky-Draw-/blob/main/architecture_diagram_kbc_final.png"  height="300" />
 
 
 
